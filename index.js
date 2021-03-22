@@ -48,12 +48,12 @@ else if (randomNumber2===6) {
 }
 
 if (randomNumber1>randomNumber2) {
-  document.querySelector("h1").innerHTML="Balbir wins!";
+  document.querySelector("h1").innerHTML="Balbir wins! 😎";
   
 }
 
 else if (randomNumber1<randomNumber2) {
-  document.querySelector("h1").innerHTML="Piku wins! 😏";
+  document.querySelector("h1").innerHTML="You wins! 😏";
   
 }
 else{
